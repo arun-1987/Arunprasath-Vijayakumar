@@ -10,9 +10,14 @@ Git clone this project and run the test using maven command.
 **To run (with Maven)**
 mvn clean verify
  
-Test File path - src\test\java\com\restassured\api\tests\PetStoreE2EIT.java
+**Test File path -** 
+src\test\java\com\restassured\api\tests\PetStoreE2EIT.java(API Testing)
+src\test\java\com\selenium\ui\tests\MonefyIT.java(Mobile-Android)
 
-List of Test Cases Taken for Testing : 
+**Report Path : **
+\src\main\resources\report
+
+**List of Test Cases Taken for API Testing : **
 1.createCustomer
 2.adminAddingNewPet
 3.adminUpdateExistingPet
@@ -24,4 +29,7 @@ List of Test Cases Taken for Testing :
 
 Total eight test cases. These tests were designed to achieve e2e automation which covers three major functionality areas. Inventory,User,Pet.
 Test will be executed in the order which matches the real time scenario.
+
+For mobile automation i have considered one test which is the ultimate functionality of monefy app. In my opinion balance calculation is high priority.
+Due to time constrain i have validated the calculated values in string format itself. 
 
