@@ -1,0 +1,390 @@
+[DEBUG] 2021-03-21 11:39:58.759 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 11:39:58.797 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 11:39:58.798 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 11:39:58.799 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 11:39:58.799 [main] DriverFactoryManager - Selenium Grid is set to : false
+[ERROR] 2021-03-21 11:40:36.221 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2021-03-21 11:40:36.287 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2021-03-21 11:40:36.344 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[DEBUG] 2021-03-21 11:50:38.834 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 11:50:38.874 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 11:50:38.875 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 11:50:38.875 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 11:50:38.876 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 11:50:58.302 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:20 seconds
+[ERROR] 2021-03-21 11:51:05.810 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[DEBUG] 2021-03-21 12:19:34.749 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 12:19:34.789 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 12:19:34.789 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 12:19:34.789 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 12:19:34.790 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 12:19:53.657 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:20 seconds
+[INFO ] 2021-03-21 12:19:55.247 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:20 seconds
+[INFO ] 2021-03-21 12:19:58.144 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 12:19:58.880 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 12:19:59.506 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 12:20:00.266 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:20 seconds
+[INFO ] 2021-03-21 12:20:01.311 [main] WaitHelper - Waiting for By.xpath: //android.widget.TextView[contains(.,'Salary')] for the specified:20 seconds
+[ERROR] 2021-03-21 12:20:21.341 [main] Income - Exception thrown in performClick functionorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //android.widget.TextView[contains(.,'Salary')] (tried for 20 second(s) with 5 milliseconds interval)
+[ERROR] 2021-03-21 12:20:22.722 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[INFO ] 2021-03-21 12:20:22.727 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:20 seconds
+[ERROR] 2021-03-21 12:20:43.262 [main] Income - Exception thrown in performClick functionorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.id: income_button_title (tried for 20 second(s) with 5 milliseconds interval)
+[ERROR] 2021-03-21 12:20:44.541 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[INFO ] 2021-03-21 12:20:44.546 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:20 seconds
+[ERROR] 2021-03-21 12:21:04.575 [main] Income - Exception thrown in performClick functionorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.id: income_button_title (tried for 20 second(s) with 5 milliseconds interval)
+[ERROR] 2021-03-21 12:21:05.829 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[DEBUG] 2021-03-21 12:27:21.568 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 12:27:21.600 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 12:27:21.601 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 12:27:21.601 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 12:27:21.602 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 12:27:40.465 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:20 seconds
+[INFO ] 2021-03-21 12:27:42.565 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:20 seconds
+[INFO ] 2021-03-21 12:27:44.830 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 12:27:45.569 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 12:27:46.138 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 12:27:46.735 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:20 seconds
+[INFO ] 2021-03-21 12:27:47.853 [main] WaitHelper - Waiting for By.xpath: /android.widget.FrameLayout[2] for the specified:20 seconds
+[ERROR] 2021-03-21 12:28:07.864 [main] Income - Exception thrown in performClick functionorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: /android.widget.FrameLayout[2] (tried for 20 second(s) with 5 milliseconds interval)
+[ERROR] 2021-03-21 12:28:09.192 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[INFO ] 2021-03-21 12:28:09.196 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:20 seconds
+[ERROR] 2021-03-21 12:28:29.220 [main] Income - Exception thrown in performClick functionorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.id: income_button_title (tried for 20 second(s) with 5 milliseconds interval)
+[ERROR] 2021-03-21 12:28:30.730 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[INFO ] 2021-03-21 12:28:30.733 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:20 seconds
+[DEBUG] 2021-03-21 12:28:55.276 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 12:28:55.310 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 12:28:55.311 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 12:28:55.312 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 12:28:55.313 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 12:29:15.482 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:20 seconds
+[INFO ] 2021-03-21 12:29:16.889 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:20 seconds
+[INFO ] 2021-03-21 12:29:19.228 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 12:29:19.959 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 12:29:21.026 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 12:29:21.641 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:20 seconds
+[INFO ] 2021-03-21 12:29:22.800 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ImageView for the specified:20 seconds
+[ERROR] 2021-03-21 12:29:30.952 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[INFO ] 2021-03-21 12:29:30.956 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:20 seconds
+[INFO ] 2021-03-21 12:29:31.233 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:20 seconds
+[DEBUG] 2021-03-21 12:42:58.634 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 12:42:58.661 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 12:42:58.661 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 12:42:58.662 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 12:42:58.662 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 12:43:16.488 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:20 seconds
+[INFO ] 2021-03-21 12:43:18.820 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:20 seconds
+[INFO ] 2021-03-21 12:43:21.845 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 12:43:22.585 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 12:43:23.528 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 12:43:24.763 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:20 seconds
+[INFO ] 2021-03-21 12:43:25.545 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ImageView for the specified:20 seconds
+[INFO ] 2021-03-21 12:43:28.407 [main] WaitHelper - Waiting for By.xpath: //resource-id[@id='balance_amount'] for the specified:20 seconds
+[ERROR] 2021-03-21 12:43:48.875 [main] Income - Element is not displayed : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //resource-id[@id='balance_amount'] (tried for 20 second(s) with 5 milliseconds interval)
+[ERROR] 2021-03-21 12:43:50.399 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[DEBUG] 2021-03-21 12:44:16.522 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 12:44:16.554 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 12:44:16.555 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 12:44:16.556 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 12:44:16.556 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 12:44:33.492 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:20 seconds
+[INFO ] 2021-03-21 12:44:35.080 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:20 seconds
+[INFO ] 2021-03-21 12:44:37.518 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 12:44:38.511 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 12:44:40.425 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 12:44:41.050 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:20 seconds
+[INFO ] 2021-03-21 12:44:41.651 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ImageView for the specified:20 seconds
+[INFO ] 2021-03-21 12:44:45.245 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:20 seconds
+[ERROR] 2021-03-21 12:44:51.167 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[DEBUG] 2021-03-21 13:05:42.801 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 13:05:42.836 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 13:05:42.836 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 13:05:42.836 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 13:05:42.837 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 13:06:02.249 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:20 seconds
+[INFO ] 2021-03-21 13:06:04.051 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:20 seconds
+[INFO ] 2021-03-21 13:06:06.934 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 13:06:07.686 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 13:06:08.328 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 13:06:08.961 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:20 seconds
+[INFO ] 2021-03-21 13:06:09.946 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ImageView for the specified:20 seconds
+[INFO ] 2021-03-21 13:06:13.057 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:20 seconds
+[INFO ] 2021-03-21 13:06:13.464 [main] WaitHelper - Waiting for By.id: expense_button_title for the specified:20 seconds
+[INFO ] 2021-03-21 13:06:13.657 [main] WaitHelper - Waiting for By.id: buttonKeyboard3 for the specified:20 seconds
+[ERROR] 2021-03-21 13:06:33.850 [main] Income - Exception thrown in performClick functionorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.id: buttonKeyboard3 (tried for 20 second(s) with 5 milliseconds interval)
+[ERROR] 2021-03-21 13:06:35.304 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[DEBUG] 2021-03-21 13:07:44.786 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 13:07:44.814 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 13:07:44.815 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 13:07:44.815 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 13:07:44.815 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 13:08:04.123 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:20 seconds
+[INFO ] 2021-03-21 13:08:05.704 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:20 seconds
+[INFO ] 2021-03-21 13:08:08.448 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 13:08:09.472 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 13:08:10.286 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 13:08:10.937 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:20 seconds
+[INFO ] 2021-03-21 13:08:11.563 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ImageView for the specified:20 seconds
+[INFO ] 2021-03-21 13:08:15.284 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:20 seconds
+[INFO ] 2021-03-21 13:08:20.494 [main] WaitHelper - Waiting for By.id: expense_button_title for the specified:20 seconds
+[INFO ] 2021-03-21 13:08:20.678 [main] WaitHelper - Waiting for By.id: buttonKeyboard3 for the specified:20 seconds
+[INFO ] 2021-03-21 13:08:40.386 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 13:08:41.472 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 13:08:42.439 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 13:08:43.392 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:20 seconds
+[INFO ] 2021-03-21 13:08:43.989 [main] WaitHelper - Waiting for By.xpath: //android.widget.LinearLayout/android.widget.TextView[contains(.,'Car')] for the specified:20 seconds
+[DEBUG] 2021-03-21 13:11:16.151 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 13:11:16.178 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 13:11:16.179 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 13:11:16.180 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 13:11:16.180 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 13:11:34.161 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:20 seconds
+[INFO ] 2021-03-21 13:11:35.672 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:20 seconds
+[INFO ] 2021-03-21 13:11:38.200 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 13:11:38.932 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 13:11:39.593 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 13:11:40.228 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:20 seconds
+[INFO ] 2021-03-21 13:11:41.104 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ImageView for the specified:20 seconds
+[INFO ] 2021-03-21 13:11:43.980 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:20 seconds
+[INFO ] 2021-03-21 13:11:54.287 [main] WaitHelper - Waiting for By.id: expense_button_title for the specified:20 seconds
+[INFO ] 2021-03-21 13:11:54.507 [main] WaitHelper - Waiting for By.id: buttonKeyboard3 for the specified:20 seconds
+[INFO ] 2021-03-21 13:11:56.158 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 13:11:57.046 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 13:11:58.029 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:20 seconds
+[INFO ] 2021-03-21 13:11:59.164 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:20 seconds
+[INFO ] 2021-03-21 13:12:00.030 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.TextView for the specified:20 seconds
+[INFO ] 2021-03-21 13:12:02.873 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:20 seconds
+[ERROR] 2021-03-21 13:12:03.480 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[DEBUG] 2021-03-21 13:26:58.205 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 13:26:58.232 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 13:26:58.232 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 13:26:58.232 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 13:26:58.232 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 13:27:15.419 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 13:27:17.097 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:60 seconds
+[INFO ] 2021-03-21 13:27:20.120 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 13:27:20.880 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 13:27:22.053 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 13:27:23.101 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:60 seconds
+[INFO ] 2021-03-21 13:27:23.705 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ImageView for the specified:60 seconds
+[INFO ] 2021-03-21 13:27:26.595 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:60 seconds
+[INFO ] 2021-03-21 13:27:27.018 [main] WaitHelper - Waiting for By.id: expense_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 13:27:27.285 [main] WaitHelper - Waiting for By.id: buttonKeyboard3 for the specified:60 seconds
+[DEBUG] 2021-03-21 13:51:59.945 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 13:52:00.016 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 13:52:00.017 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 13:52:00.017 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 13:52:00.017 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 13:52:21.611 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 13:52:23.200 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:60 seconds
+[INFO ] 2021-03-21 13:52:25.667 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 13:52:26.392 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 13:52:27.328 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 13:52:28.257 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:60 seconds
+[INFO ] 2021-03-21 13:52:29.259 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ImageView for the specified:60 seconds
+[INFO ] 2021-03-21 13:52:32.116 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:60 seconds
+[INFO ] 2021-03-21 13:52:32.414 [main] WaitHelper - Waiting for By.id: snackbar_text for the specified:60 seconds
+[INFO ] 2021-03-21 13:52:41.787 [main] WaitHelper - Waiting for By.id: snackbar_text for the specified:60 seconds
+[DEBUG] 2021-03-21 13:54:26.690 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 13:54:26.723 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 13:54:26.724 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 13:54:26.724 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 13:54:26.725 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 13:54:46.218 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 13:54:47.780 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:60 seconds
+[INFO ] 2021-03-21 13:54:50.650 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 13:54:52.127 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 13:54:52.764 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 13:54:53.385 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:60 seconds
+[INFO ] 2021-03-21 13:54:53.982 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ImageView for the specified:60 seconds
+[INFO ] 2021-03-21 13:54:56.906 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:60 seconds
+[INFO ] 2021-03-21 13:54:57.328 [main] WaitHelper - Waiting for By.id: snackbar_text for the specified:60 seconds
+[INFO ] 2021-03-21 13:55:07.003 [main] WaitHelper - Waiting for By.id: expense_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 13:55:07.683 [main] WaitHelper - Waiting for By.id: buttonKeyboard3 for the specified:60 seconds
+[INFO ] 2021-03-21 13:55:10.127 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 13:55:10.845 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 13:55:11.450 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 13:55:12.090 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:60 seconds
+[INFO ] 2021-03-21 13:55:13.159 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.TextView for the specified:60 seconds
+[INFO ] 2021-03-21 13:55:16.497 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:60 seconds
+[ERROR] 2021-03-21 13:55:16.885 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[DEBUG] 2021-03-21 19:01:19.382 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 19:01:19.511 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 19:01:19.512 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 19:01:19.514 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 19:01:19.515 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 19:01:40.728 [main] WaitHelper - Waiting for By.id: snackbar_text for the specified:60 seconds
+[INFO ] 2021-03-21 19:01:42.218 [main] WaitHelper - Waiting for By.id: expense_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 19:01:42.498 [main] WaitHelper - Waiting for By.id: buttonKeyboard3 for the specified:60 seconds
+[INFO ] 2021-03-21 19:01:43.708 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:01:44.014 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:01:44.306 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:01:44.615 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:60 seconds
+[INFO ] 2021-03-21 19:01:45.185 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.TextView for the specified:60 seconds
+[INFO ] 2021-03-21 19:01:46.603 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:60 seconds
+[INFO ] 2021-03-21 19:01:49.599 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 19:01:49.861 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:60 seconds
+[DEBUG] 2021-03-21 19:02:28.122 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 19:02:28.247 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 19:02:28.248 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 19:02:28.248 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 19:02:28.249 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 19:02:47.386 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 19:02:48.945 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:60 seconds
+[INFO ] 2021-03-21 19:02:51.412 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:02:53.428 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:02:54.081 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:02:54.725 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:60 seconds
+[INFO ] 2021-03-21 19:02:55.868 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ImageView for the specified:60 seconds
+[INFO ] 2021-03-21 19:02:58.838 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:60 seconds
+[INFO ] 2021-03-21 19:02:59.096 [main] WaitHelper - Waiting for By.id: snackbar_text for the specified:60 seconds
+[INFO ] 2021-03-21 19:03:08.342 [main] WaitHelper - Waiting for By.id: expense_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 19:03:08.513 [main] WaitHelper - Waiting for By.id: buttonKeyboard3 for the specified:60 seconds
+[INFO ] 2021-03-21 19:03:09.962 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:03:11.361 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:03:12.441 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:03:13.024 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:60 seconds
+[INFO ] 2021-03-21 19:03:14.025 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.TextView for the specified:60 seconds
+[INFO ] 2021-03-21 19:03:17.334 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:60 seconds
+[ERROR] 2021-03-21 19:03:19.104 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[DEBUG] 2021-03-21 19:08:09.997 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 19:08:10.105 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 19:08:10.105 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 19:08:10.106 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 19:08:10.106 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 19:08:29.392 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 19:08:31.652 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:60 seconds
+[INFO ] 2021-03-21 19:08:34.053 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:08:34.812 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:08:36.389 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:08:37.047 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:60 seconds
+[INFO ] 2021-03-21 19:08:37.698 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ImageView for the specified:60 seconds
+[INFO ] 2021-03-21 19:08:41.715 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:60 seconds
+[INFO ] 2021-03-21 19:08:42.871 [main] WaitHelper - Waiting for By.id: snackbar_text for the specified:60 seconds
+[INFO ] 2021-03-21 19:08:50.106 [main] WaitHelper - Waiting for By.id: expense_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 19:08:50.838 [main] WaitHelper - Waiting for By.id: buttonKeyboard3 for the specified:60 seconds
+[INFO ] 2021-03-21 19:08:52.286 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:08:52.965 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:08:53.826 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:08:54.804 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:60 seconds
+[INFO ] 2021-03-21 19:08:55.394 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.TextView for the specified:60 seconds
+[INFO ] 2021-03-21 19:08:58.688 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:60 seconds
+[ERROR] 2021-03-21 19:09:00.913 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[DEBUG] 2021-03-21 19:10:16.922 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 19:10:16.979 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 19:10:16.980 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 19:10:16.980 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 19:10:16.981 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 19:10:36.481 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 19:10:38.074 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:60 seconds
+[INFO ] 2021-03-21 19:10:41.611 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:10:42.904 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:10:43.698 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:10:44.288 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:60 seconds
+[INFO ] 2021-03-21 19:10:45.394 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ImageView for the specified:60 seconds
+[INFO ] 2021-03-21 19:10:48.568 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:60 seconds
+[INFO ] 2021-03-21 19:10:48.989 [main] WaitHelper - Waiting for By.id: snackbar_text for the specified:60 seconds
+[INFO ] 2021-03-21 19:10:57.936 [main] WaitHelper - Waiting for By.id: expense_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 19:10:58.152 [main] WaitHelper - Waiting for By.id: buttonKeyboard3 for the specified:60 seconds
+[INFO ] 2021-03-21 19:10:59.609 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:11:00.341 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:11:00.922 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:11:01.529 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:60 seconds
+[INFO ] 2021-03-21 19:11:02.133 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.TextView for the specified:60 seconds
+[INFO ] 2021-03-21 19:11:05.588 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:60 seconds
+[ERROR] 2021-03-21 19:11:06.467 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[DEBUG] 2021-03-21 19:22:36.618 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 19:22:36.655 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 19:22:36.656 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 19:22:36.656 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 19:22:36.656 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 19:22:53.797 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 19:22:55.384 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:60 seconds
+[INFO ] 2021-03-21 19:22:57.995 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:23:00.090 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:23:00.727 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:23:01.356 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:60 seconds
+[INFO ] 2021-03-21 19:23:02.423 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ImageView for the specified:60 seconds
+[INFO ] 2021-03-21 19:23:05.520 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:60 seconds
+[INFO ] 2021-03-21 19:23:05.976 [main] WaitHelper - Waiting for By.id: snackbar_text for the specified:60 seconds
+[INFO ] 2021-03-21 19:23:14.909 [main] WaitHelper - Waiting for By.id: expense_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 19:23:15.133 [main] WaitHelper - Waiting for By.id: buttonKeyboard3 for the specified:60 seconds
+[INFO ] 2021-03-21 19:23:17.551 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:23:17.703 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:23:18.311 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:23:18.899 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:60 seconds
+[INFO ] 2021-03-21 19:23:19.498 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.TextView for the specified:60 seconds
+[INFO ] 2021-03-21 19:23:22.922 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:60 seconds
+[ERROR] 2021-03-21 19:23:24.152 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[DEBUG] 2021-03-21 19:25:53.340 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 19:25:53.378 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 19:25:53.379 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 19:25:53.379 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 19:25:53.380 [main] DriverFactoryManager - Selenium Grid is set to : false
+[ERROR] 2021-03-21 19:26:17.149 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2021-03-21 19:26:26.329 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2021-03-21 19:26:35.331 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[DEBUG] 2021-03-21 19:31:46.962 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 19:31:47.001 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 19:31:47.002 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 19:31:47.002 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 19:31:47.003 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 19:32:07.123 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 19:32:09.171 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:60 seconds
+[INFO ] 2021-03-21 19:32:12.047 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:32:13.476 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:32:14.127 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:32:14.789 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:60 seconds
+[INFO ] 2021-03-21 19:32:15.418 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ImageView for the specified:60 seconds
+[INFO ] 2021-03-21 19:32:19.267 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:60 seconds
+[INFO ] 2021-03-21 19:32:19.524 [main] WaitHelper - Waiting for By.id: snackbar_text for the specified:60 seconds
+[INFO ] 2021-03-21 19:32:28.414 [main] WaitHelper - Waiting for By.id: expense_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 19:32:28.610 [main] WaitHelper - Waiting for By.id: buttonKeyboard3 for the specified:60 seconds
+[INFO ] 2021-03-21 19:32:30.019 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:32:31.404 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:32:32.017 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:32:32.618 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:60 seconds
+[INFO ] 2021-03-21 19:32:33.219 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.TextView for the specified:60 seconds
+[INFO ] 2021-03-21 19:32:36.219 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:60 seconds
+[ERROR] 2021-03-21 19:32:36.566 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2021-03-21 19:32:45.629 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2021-03-21 19:32:51.464 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2021-03-21 19:32:57.159 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[DEBUG] 2021-03-21 19:36:26.646 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 19:36:26.684 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 19:36:26.686 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 19:36:26.687 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 19:36:26.688 [main] DriverFactoryManager - Selenium Grid is set to : false
+[ERROR] 2021-03-21 19:36:48.861 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2021-03-21 19:36:53.375 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2021-03-21 19:36:53.579 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[DEBUG] 2021-03-21 19:37:45.481 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-21 19:37:45.520 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-21 19:37:45.522 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-21 19:37:45.522 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-21 19:37:45.523 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-21 19:38:03.903 [main] WaitHelper - Waiting for By.id: income_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 19:38:05.968 [main] WaitHelper - Waiting for By.id: buttonKeyboard5 for the specified:60 seconds
+[INFO ] 2021-03-21 19:38:08.910 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:38:09.629 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:38:10.780 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:38:11.823 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:60 seconds
+[INFO ] 2021-03-21 19:38:12.428 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ImageView for the specified:60 seconds
+[INFO ] 2021-03-21 19:38:15.729 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:60 seconds
+[INFO ] 2021-03-21 19:38:16.227 [main] WaitHelper - Waiting for By.id: snackbar_text for the specified:60 seconds
+[INFO ] 2021-03-21 19:38:25.129 [main] WaitHelper - Waiting for By.id: expense_button_title for the specified:60 seconds
+[INFO ] 2021-03-21 19:38:25.826 [main] WaitHelper - Waiting for By.id: buttonKeyboard3 for the specified:60 seconds
+[INFO ] 2021-03-21 19:38:27.268 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:38:27.952 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:38:28.550 [main] WaitHelper - Waiting for By.id: buttonKeyboard0 for the specified:60 seconds
+[INFO ] 2021-03-21 19:38:29.928 [main] WaitHelper - Waiting for By.id: keyboard_action_button for the specified:60 seconds
+[INFO ] 2021-03-21 19:38:31.446 [main] WaitHelper - Waiting for By.xpath: //android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.TextView for the specified:60 seconds
+[INFO ] 2021-03-21 19:38:34.700 [main] WaitHelper - Waiting for By.id: balance_amount for the specified:60 seconds
+[ERROR] 2021-03-21 19:38:35.693 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2021-03-21 19:38:41.480 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2021-03-21 19:38:41.637 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2021-03-21 19:38:41.816 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2021-03-21 19:38:42.153 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2021-03-21 19:38:42.251 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2021-03-21 19:38:42.433 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2021-03-21 19:38:42.512 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[ERROR] 2021-03-21 19:38:43.006 [main] TestBase - Unable to clear cookies, driver object is not viable...

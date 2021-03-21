@@ -1,0 +1,9 @@
+{
+"BalanceValidation" : [
+	{
+	"rowID":"BalanceValidation",
+	"description":"Balance calculation validation",
+	"calculatedvalue":"2,000.00"
+	}
+]
+}

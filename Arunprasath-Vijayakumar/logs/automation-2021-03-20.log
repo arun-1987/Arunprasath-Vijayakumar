@@ -1,0 +1,33 @@
+[DEBUG] 2021-03-20 22:29:10.258 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-20 22:29:10.318 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-20 22:29:10.318 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-20 22:29:10.320 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-20 22:29:10.320 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-20 22:29:37.186 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-20 22:29:37.187 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-20 22:29:37.187 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-20 22:29:37.188 [main] DriverFactoryManager - Selenium Grid is set to : false
+[ERROR] 2021-03-20 22:29:41.047 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[INFO ] 2021-03-20 22:29:41.050 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-20 22:29:41.051 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-20 22:29:41.051 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-20 22:29:41.052 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-20 22:29:45.175 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-20 22:29:45.176 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-20 22:29:45.176 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-20 22:29:45.176 [main] DriverFactoryManager - Selenium Grid is set to : false
+[ERROR] 2021-03-20 22:29:49.290 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[INFO ] 2021-03-20 22:29:49.292 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-20 22:29:49.293 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-20 22:29:49.293 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-20 22:29:49.293 [main] DriverFactoryManager - Selenium Grid is set to : false
+[INFO ] 2021-03-20 22:29:53.231 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-20 22:29:53.231 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-20 22:29:53.231 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-20 22:29:53.232 [main] DriverFactoryManager - Selenium Grid is set to : false
+[ERROR] 2021-03-20 22:29:57.109 [main] TestBase - Unable to clear cookies, driver object is not viable...
+[DEBUG] 2021-03-20 22:30:49.075 [main] DriverFactoryManager - Default browser type is Chrome. For other options reset the value in config.json
+[INFO ] 2021-03-20 22:31:09.510 [main] DriverFactoryManager - Local Operating System: WINDOWS 10
+[INFO ] 2021-03-20 22:31:09.511 [main] DriverFactoryManager - Local Architecture: amd64
+[INFO ] 2021-03-20 22:31:09.511 [main] DriverFactoryManager - Selected Browser: APPIUM
+[INFO ] 2021-03-20 22:31:09.512 [main] DriverFactoryManager - Selenium Grid is set to : false
